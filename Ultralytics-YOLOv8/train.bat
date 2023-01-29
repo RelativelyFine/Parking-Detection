@@ -1,0 +1,1 @@
+yolo task=detect mode=train model=yolov8n.pt data=Areial1.v4-areial_dataset.yolov8/data.yaml epochs=50 imgsz=640
